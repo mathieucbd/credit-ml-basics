@@ -1,31 +1,14 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-*.egg-info/
-dist/
-build/
-
-# Virtual environments
-venv/
+# Python Environment Files
 .venv/
-env/
+__pycache__/
+*.pyc
 
-# Jupyter
-.ipynb_checkpoints/
+# Data
+data/
 
-# IDEs
-.vscode/
-.idea/
+# Jupyter/iPython Notebook Outputs
+.ipynb_checkpoints
 
-# OS
+# Operating System Files
 .DS_Store
 Thumbs.db
-
-# Models
-*.pkl
-*.joblib
-*.h5
-
-# Environment
-.env
