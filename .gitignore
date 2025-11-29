@@ -3,9 +3,6 @@
 __pycache__/
 *.pyc
 
-# Data
-data/
-
 # Jupyter/iPython Notebook Outputs
 .ipynb_checkpoints
 
