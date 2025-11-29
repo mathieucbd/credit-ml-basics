@@ -1,6 +1,6 @@
 # Credit Default Prediction – ML Benchmark
 
-This project is a simple refresher on classical machine learning applied to credit risk.  
+This project is a refresher on basic machine learning models applied to credit risk.  
 It benchmarks several models on a small loan dataset to predict the probability of default and compute expected loss.
 
 ## Contents
